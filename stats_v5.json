@@ -1,0 +1,14 @@
+{
+  "total": 48,
+  "success": 48,
+  "failed": 2,
+  "polls": 5,
+  "images": 0,
+  "crypto_alerts": 3,
+  "sessions": [
+    {
+      "time": "2026-02-13T06:34:05.510394",
+      "posted": 48
+    }
+  ]
+}
